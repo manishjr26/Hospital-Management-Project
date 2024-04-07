@@ -23,7 +23,7 @@
       * Name the folder anything you like (e.g., config). <br>
       * Inside the folder, create a persistence.xml file. <br>
       * Copy and paste the following configuration into persistence.xml <br>
-      
+    
     
 Update the url, and password properties with your MySQL configuration.
 
